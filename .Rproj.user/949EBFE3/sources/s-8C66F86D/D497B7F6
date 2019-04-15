@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555115520534.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D497B7F6",
+    "lastKnownWriteTime" : 7957579540735225600,
+    "last_content_update" : 1555115520534,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7FE9BCED",
+        "caption" : "Admission_Predict",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Admission_Predict&cache_key=7FE9BCED",
+        "displayedObservations" : "400",
+        "environment" : "",
+        "object" : "Admission_Predict",
+        "preview" : "0",
+        "totalObservations" : "400",
+        "variables" : "9"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
